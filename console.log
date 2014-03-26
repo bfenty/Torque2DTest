@@ -1,12 +1,12 @@
-//-------------------------- 3/26/2014 -- 09:48:39 -----
+//-------------------------- 3/26/2014 -- 15:14:16 -----
 Console trace is off.
-using display 0x1a48cb24
+using display 0x4273240
 Activating the OpenGL display device...
  OpenGLDevice activating...
 OpenGL driver information:
-  Vendor: NVIDIA Corporation
-  Renderer: NVIDIA GeForce GTX 650 OpenGL Engine
-  Version: 2.1 NVIDIA-8.18.22 310.40.05f01
+  Vendor: Intel Inc.
+  Renderer: Intel HD Graphics 3000 OpenGL Engine
+  Version: 2.1 INTEL-8.24.11
 OpenGL Init: Enabled Extensions
   ARB_multitexture (Max Texture Units: 8)
   EXT_blend_color
@@ -27,16 +27,24 @@ OpenGL Init: Disabled Extensions
   3DFX_texture_compression_FXT1
 
  set screen mode 1024 x 768 x 32, windowed, force it, dont repaint
-Max Texture Size reported as: 16384
+Max Texture Size reported as: 8192
  set screen mode 1024 x 768 x 32, windowed, dont force it, repaint
 Killing the texture manager...
 Resurrecting the texture manager...
 OpenAL Driver Init
 OpenAL Driver Init Success
+@@@ BrandonToy Created
+@@@ BrandonToy Reset
  set screen mode 1024 x 768 x 32, windowed, dont force it, repaint
 Killing the texture manager...
 Resurrecting the texture manager...
-@@@ BrandonToy Created
+@@@ BrandonToy Reset
+@@@ BrandonToy Reset
+@@@ BrandonToy Reset
+@@@ BrandonToy Reset
+@@@ BrandonToy Reset
+@@@ BrandonToy Reset
+@@@ BrandonToy Reset
 @@@ BrandonToy Destroyed
 Shutting down the OpenGL display device...
 Killing the texture manager...
